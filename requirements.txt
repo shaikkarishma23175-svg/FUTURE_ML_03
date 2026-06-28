@@ -1,1 +1,7 @@
-
+PyMuPDF
+nltk
+scikit-learn
+pandas
+numpy
+matplotlib
+wordcloud
