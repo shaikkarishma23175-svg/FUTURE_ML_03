@@ -1,1 +1,31 @@
+Job Title: Machine Learning Engineer
 
+We are looking for a Machine Learning Engineer with strong knowledge of Python, Machine Learning, Deep Learning, Natural Language Processing (NLP), SQL, and Data Analysis.
+
+Responsibilities:
+- Build machine learning models
+- Analyze and preprocess data
+- Develop predictive models
+- Perform data visualization
+- Work with large datasets
+- Collaborate with development teams
+
+Required Skills:
+- Python
+- Machine Learning
+- Deep Learning
+- NLP
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- Git
+- Data Analysis
+- Problem Solving
+- Communication Skills
+
+Preferred Qualifications:
+- Bachelor's degree in Computer Science or related field
+- Experience with AI/ML projects
+- Knowledge of cloud platforms is an advantage
